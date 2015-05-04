@@ -6,4 +6,4 @@ The python program included in this repository, entitled Arbitrage.py, searches 
 Arbitrage.py: https://github.com/sabbate/BitcoinArbitrage/blob/master/Arbitrage.py
 
 The powerpoint program included in this repositroy, entitled Arbitrage.odp, explores the potential for arbitrage opportunities as a whole. For example, do they exist within Bitcoin exhange? Do they offer the potential for profit?
-Arbitrage.odp: https://github.com/sabbate/BitcoinArbitrage/blob/master/Arbitrage.odp
+Arbitrage.pdf: https://github.com/sabbate/BitcoinArbitrage/blob/master/Arbitrage.pdf
